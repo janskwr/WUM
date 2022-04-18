@@ -1,2 +1,3 @@
-# WUM-projects-and-homeworks
-Homeworks and projects for Machine Learning course.
+# WUM
+Homeworks and projects for Machine Learning course.   
+Note: All comments are in Polish language.
