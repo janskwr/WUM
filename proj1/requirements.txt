@@ -1,0 +1,9 @@
+category_encoders==2.4.0
+dython==0.7.1.post3
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.1
+scikit_learn==1.0.2
+scipy==1.8.0
+seaborn==0.11.2
+xgboost==1.6.0
