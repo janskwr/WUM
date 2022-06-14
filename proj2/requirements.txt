@@ -1,6 +1,6 @@
 gensim==4.2.0
 matplotlib==3.5.1
-numpy==1.17.4
+numpy==1.21.0
 pandas==1.4.1
 plotly==5.8.1
 protobuf==4.21.1
